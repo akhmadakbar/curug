@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2015-04-30T16:16:10Z</Created>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>19995</WindowWidth>
+  <WindowTopX>-15</WindowTopX>
+  <WindowTopY>-15</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Verdana"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Verdana" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Verdana" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Collection1">
+  <Table ss:ExpandedColumnCount="30" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54">
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="106.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105"/>
+   <Row ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Source Url</Data></Cell>
+    <Cell><Data ss:Type="String">Url</Data></Cell>
+    <Cell><Data ss:Type="String">Column 4</Data></Cell>
+    <Cell><Data ss:Type="String">Column 5</Data></Cell>
+    <Cell><Data ss:Type="String">Column 6</Data></Cell>
+    <Cell><Data ss:Type="String">Column 7</Data></Cell>
+    <Cell><Data ss:Type="String">Column 8</Data></Cell>
+    <Cell><Data ss:Type="String">Column 9</Data></Cell>
+    <Cell><Data ss:Type="String">Column 10</Data></Cell>
+    <Cell><Data ss:Type="String">Column 11</Data></Cell>
+    <Cell><Data ss:Type="String">Column 12</Data></Cell>
+    <Cell><Data ss:Type="String">Column 13</Data></Cell>
+    <Cell><Data ss:Type="String">Column 14</Data></Cell>
+    <Cell><Data ss:Type="String">Column 15</Data></Cell>
+    <Cell><Data ss:Type="String">Column 16</Data></Cell>
+    <Cell><Data ss:Type="String">Column 17</Data></Cell>
+    <Cell><Data ss:Type="String">Column 18</Data></Cell>
+    <Cell><Data ss:Type="String">Column 19</Data></Cell>
+    <Cell><Data ss:Type="String">Column 20</Data></Cell>
+    <Cell><Data ss:Type="String">Column 21</Data></Cell>
+    <Cell><Data ss:Type="String">Column 22</Data></Cell>
+    <Cell><Data ss:Type="String">Column 23</Data></Cell>
+    <Cell><Data ss:Type="String">Column 24</Data></Cell>
+    <Cell><Data ss:Type="String">Column 25</Data></Cell>
+    <Cell><Data ss:Type="String">Column 26</Data></Cell>
+    <Cell><Data ss:Type="String">Column 27</Data></Cell>
+    <Cell><Data ss:Type="String">Column 28</Data></Cell>
+    <Cell><Data ss:Type="String">Column 29</Data></Cell>
+    <Cell><Data ss:Type="String">Column 30</Data></Cell>
+    <Cell><Data ss:Type="String">Column 31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125316&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971110</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626135</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:47:31 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125260&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971111</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626136</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:46:45 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125303&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971112</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626137</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:47:18 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125305&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971113</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626138</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:47:21 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125267&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971095</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626269</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:46:51 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125273&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971096</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626270</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:46:55 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125289&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971097</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626271</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:47:09 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125265&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971098</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626272</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:46:50 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125280&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971099</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626273</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:47:03 PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">file:///E:/bcs/Narogong/FMS/web_transporter/update_and_entry_confirmation_order.aspx.htm</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">http://webtransporter.holcim.co.id/modules/update_and_entry_confirmation_order.aspx?id=125312&amp;tabIndex=0</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assign</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">I300</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/31/2015</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">03/29/2015 (00:00 - 23:59)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7300072937</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1102971100</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6300626274</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">H4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PLANT CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CIWANDAN</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">PT LINTAS BAHARI NUSANTARA KM STB 24</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">P9380</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CLINKER TYPE I</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">CK</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5700128</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">BUANA CENTRA SWAKARSA, PT</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4/30/2015 7:47:30 PM</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
